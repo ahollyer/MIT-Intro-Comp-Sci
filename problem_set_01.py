@@ -5,15 +5,23 @@ Created on Mon Mar 13 09:04:41 2017
 
 @author: aspen
 """
+#PSet 01: Create a program to compute & print the 1000th prime number
 
 import math
 
-##initialize possible primes
-possiblePrimes = (1, 2)
+def isPrime(n):
+    for i in range(2, n):
+        if n % i == 0:
+            return False
+    return True;
+        
+primeCounter = 1 #because 2 is prime
+x = 3
 
-##concatenate all possible primes from 3-1000
-for n in range(3,1000):
-    if n % 2 != 0:
-        possiblePrimes += (n,)
-
-print(possiblePrimes)
+while primeCounter < 999:
+    if isPrime(x):
+        primeCounter += 1
+        print(x, "is prime number", primeCounter)
+    x += 2 #increment x by 2 for the next odd number
+    
+print(x, "is the 1000th prime number!")

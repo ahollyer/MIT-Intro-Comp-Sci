@@ -7,4 +7,9 @@ Created on Sat Mar  4 08:28:08 2017
 """
 
 print('hello world')
-print('I like 6.00.1x!')
+print('I like MIT 6.00!')
+
+firstName = input('What is your first name?\n')
+lastName = input('What is your last name?\n')
+
+print('Okay, your name is ' + firstName + ' ' + lastName + '.')

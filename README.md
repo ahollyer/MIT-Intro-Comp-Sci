@@ -1,17 +1,19 @@
 # MIT-Intro-Comp-Sci
-##Programs written for MIT 6.00: Introduction to Computer Science &amp; Programming Using Python
+## Programs written for MIT 6.00: Introduction to Computer Science &amp; Programming Using Python
+
+I'm using this repository to track my progress as I work through the course. Feel free to copy this to track your own progress.
 
 ----
 
 This repository contains problem sets and practice exercises from the course. All course materials are available at [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/).
 
-As a new programmer, I have found this course valuable for understanding algorithms, time complexity, and computer science basics. The lecturer, Eric Grimson, is outstanding. I'm using this repository to track my progress as I work through the course.
+As a new programmer, I have found this course valuable for understanding algorithms, time complexity, and computer science basics. The lecturer, Eric Grimson, is outstanding.
 
 You can also check out the free textbook that accompanies this course: [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkCSpy/html/index.html) by Allen Downey, Jeffrey Elkner, and Chris Meyers.
 
 ----
 
-###Problem Sets
+### Problem Sets
 
 - [x] Problem Set 01: Compute & Print the 1000th Prime Number
 - [ ] Problem Set 02: Diophantine Equations
@@ -28,7 +30,7 @@ You can also check out the free textbook that accompanies this course: [How to T
 
 ----
 
-###Lectures
+### Lectures
 - [x] Introduction & Goals; Data Types, Operators, & Variables
 - [x] Branching, Conditionals, & Iteration
 - [x] Common Code Patterns: Iterative Programs
@@ -56,7 +58,7 @@ You can also check out the free textbook that accompanies this course: [How to T
 
 ---
 
-###Readings
+### Readings
 - [x] Introduction: Ch. 1 of *How to Think Like a Computer Scientist*
 - [x] Variables & Statements: Ch. 2 of *How to Think Like a Computer Scientist*
 - [x] Strings: [Variables & Strings](https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings) section of *Python Programming*

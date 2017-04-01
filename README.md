@@ -40,7 +40,7 @@ You can also check out the free textbook that accompanies this course: [How to T
 - [x] Lists & Mutability, Dictionaries, Introduction to Efficiency
 - [x] Complexity: Log, Linear, Quadratic, Exponential Algorithms
 - [x] Binary Search, Bubble & Selection Sorts
-- [ ] Divide & Conquer Methods, Merge Sort, Exceptions
+- [x] Divide & Conquer Methods, Merge Sort, Exceptions
 - [ ] Testing & Debugging
 - [ ] Debugging, Knapsack Problem, Introduction to Dynamic Programming
 - [ ] Dynamic Programming: Overlapping Subproblems, Optimal Substructure

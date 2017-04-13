@@ -1,5 +1,4 @@
-# MIT-Intro-Comp-Sci
-## Programs written for MIT 6.00: Introduction to Computer Science &amp; Programming Using Python
+# MIT 6.00: Introduction to Computer Science &amp; Programming Using Python
 
 I'm using this repository to track my progress as I work through the course. Feel free to copy this to track your own progress.
 
@@ -7,7 +6,7 @@ I'm using this repository to track my progress as I work through the course. Fee
 
 This repository contains problem sets and practice exercises from the course. All course materials are available at [MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/).
 
-As a new programmer, I have found this course valuable for understanding algorithms, time complexity, and computer science basics. The lecturer, Eric Grimson, is outstanding.
+As a new programmer, I have found this course valuable for understanding simple algorithms, time complexity, and computer science basics. The lecturer, Eric Grimson, is outstanding.
 
 You can also check out the free textbook that accompanies this course: [How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/thinkCSpy/html/index.html) by Allen Downey, Jeffrey Elkner, and Chris Meyers.
 

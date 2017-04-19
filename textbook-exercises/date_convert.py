@@ -1,3 +1,5 @@
+# date_convert.py
+
 def main():
     # Get the date
     date_str = input("Enter a date (mm/dd/yyy): ")
@@ -11,5 +13,5 @@ def main():
 
     # Output result in month day, year format
     print("The converted date is:", month_str, day_str+",", year_str)
-    
+
 main()
